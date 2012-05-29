@@ -1,0 +1,68 @@
+.node {
+    -webkit-border-radius: 3px;
+    border: 3px solid #333;
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-left: 3px;
+    margin-bottom: 3px;
+}
+
+.img {
+	-webkit-border-radius: 3px;
+    border: 3px solid #333;
+    width: 256px;
+    height: 384px;
+    margin-left: 3px;
+    margin-bottom: 3px;
+}
+
+div.background
+{
+  width: 320px;
+  height: 480px;
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+div.transbox
+{
+  width: 80%;
+  height: 80%;
+  margin: 30px 10px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity:0.6;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+div.transbox p
+{
+  margin: 10px 10px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.helpbox {
+    padding: 10px;
+    text-align: center;
+    background: #000;
+}
+
+.helpbox div {
+    margin-top:5px;
+    color: #fff;
+}
+
+.helpbox a {
+    color: #0066cc;
+}
+
+.helpbox a:hover {
+    color: #999;
+    text-decoration: none;
+}
+
+.helpbox .credit {
+    color: #fff;
+    font-size: 11px; 
+    font-weight: bold;
+}

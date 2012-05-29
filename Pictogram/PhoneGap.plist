@@ -19,9 +19,13 @@
 	<key>OpenAllWhitelistURLsInWebView</key>
 	<false/>
 	<key>ExternalHosts</key>
-	<array/>
+	<array>
+		<string>*</string>
+	</array>
 	<key>Plugins</key>
 	<dict>
+		<key>PluginClass</key>
+		<string>PGScanner</string>
 		<key>com.phonegap.accelerometer</key>
 		<string>PGAccelerometer</string>
 		<key>com.phonegap.camera</key>

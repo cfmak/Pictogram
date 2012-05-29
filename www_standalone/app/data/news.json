@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Beyond jQuery: JavaScript Tools For The HTML5 Generation",
+        "date": "November 09, 2011",
+        "content": "<img src='http://98.207.1.60/get.php?pid=4e6c8e63-2706-43a0-b617-f023b3028fdf&ver=original'>"
+    },
+    {
+        "title": "What Is the Best Mobile Platform for HTML5 Development?",
+        "date": "November 10, 2011",
+        "content": "The focus of the mobile world has turned to HTML5. Right now, HTML5 is positioning itself to be the No. 3 mobile platform behind Apple's iOS and Google's Android and we will see that evolution take place over the next couple of years."
+    },
+    {
+        "title": "No Flash? No Problem",
+        "date": "November 18, 2011",
+        "content": "So what does the future hold for Flash? I imagine Flash eventually being used more as a creative tool than a delivery format. As Adobe continues to put more effort into exporting HTML5-ready assets from Flash Pro, it tells me the swf may be slowly dying for desktop, too."
+    },
+    {
+        "title": "Adobe Flash Sites Rapidly Converted To HTML5 For iOS users",
+        "date": "November 21, 2011",
+        "content": "A developer using Sencha Touch reports that translating large existing websites built with Adobe Flash to HTML5 mobile sites accessible to iOS users can now be performed by 1 or 2 people in just three weeks."
+    }
+]
